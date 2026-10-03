@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv*/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Local biometric data and downloaded model weights
+data/*.db
+data/*.sqlite*
+data/*.csv
+models/*.onnx
+models/*.download
+
+# Streamlit and local environment
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
