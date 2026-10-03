@@ -230,6 +230,3 @@ Suggested commit messages for incremental development:
 - Add administrator authentication and a durable database for controlled deployments.
 - Add configurable local timezone reporting and richer attendance summaries.
 
-## Author
-
-**[Your Name]** — AI/ML engineering student portfolio project. Replace this placeholder with your name and links before publishing.
